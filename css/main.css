@@ -22,64 +22,58 @@ li {
   display: inline-block;
   list-style-type: none;
   margin: 0 12px;
- } 
- .hero {
+}
+.hero{
   background-image: url('/images/hero.png');
   height: 500px;
   padding-top: 219px;
   padding-left: 103px;
 }
-
-h1 {
+h1{
   font-size: 36px;
   margin-bottom: 15px;
 }
-
-button {
+button{
   margin-top: 35px;
   padding: 12px 30px;
   background: #52647E;
   color: white;
   border-radius: 10px;
 }
-.journey {
+.journey{
   background: #618379;
   padding: 57px 0;
 }
-
-h2 {
+h2{
   color: white;
-  font-size: 32px;
+  padding: 32px;
   text-align: center;
   font-weight: 500;
   margin-bottom: 57px;
 }
+.journey-list{
 
-.journey-list {
   display: flex;
   width: 80%;
   margin: 0 10%;
   justify-content: space-between;
 }
-
-.journey-card {
+.journey-card{
   width: 30%;
   background-color: white;
   padding: 25px;
   border-radius: 40px;
   color:gray;
 }
-
-.journey-image {
+.journey-image{
   border-radius: 25px;
   margin-bottom: 25px;
 }
-
-h3 {
+h3{
   font-weight: 500;
   font-size: 20px;
-  margin-bottom: 12px;
   color: black;
+  margin-bottom: 12px;
 }
 footer {
   background: #333232;
